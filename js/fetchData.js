@@ -49,3 +49,6 @@ async function fetchDataAsync(url) {
     console.log('Failed:', error); // Log the error if rejected
   }
 }
+
+
+dyfaygdhasgdhyag
